@@ -22,7 +22,7 @@ A lightweight Telegram bot powered by Google's **Gemma 4** model. Iris acts as a
 ## Setup        
             
 ```bash
-git clone https://github.com/<your-username>/Iris.git
+git clone https://github.com/BehruzXurramov/Iris.git
 cd Iris
 npm install
 ```
